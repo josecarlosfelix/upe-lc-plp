@@ -12,10 +12,10 @@ Repositório da disciplina Paradigmas de Linguagens de Programação, LC, UPE Ca
 
 **Semestre:** 2019.1
 
-**Bem vindo! Segue um vídeo interessante sobre o conteúdo programado para a disciplina**
-[![4 Programming Paradigms In 40 Minutes](http://img.youtube.com/vi/cgVVZMfLjEI/0.jpg)](http://www.youtube.com/watch?v=cgVVZMfLjEI "4 Programming Paradigms In 40 Minutes")
-
 ## Conteúdo programático
+
+**Um vídeo interessante sobre o conteúdo programado para a disciplina**
+[![4 Programming Paradigms In 40 Minutes](http://img.youtube.com/vi/cgVVZMfLjEI/0.jpg)](http://www.youtube.com/watch?v=cgVVZMfLjEI "4 Programming Paradigms In 40 Minutes")
 
 ### Unidade 1
 
