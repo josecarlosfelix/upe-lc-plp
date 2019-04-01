@@ -2,10 +2,10 @@
 # Paradigmas de Linguagens de Programação
 Repositório da disciplina Paradigmas de Linguagens de Programação, LC, UPE Campus Garanhuns
 
+[**SLIDES**](https://github.com/cmrevoredo/upe-lc-plp/tree/master/slides)  |  [**EXERCÍCIOS**](https://github.com/cmrevoredo/upe-lc-plp/tree/master/exercises)  |  [**FERRAMENTAS**](https://github.com/cmrevoredo/upe-lc-plp/tree/master/tools)
+
 **Bem vindo! Segue um vídeo interessante sobre o conteúdo programado para a disciplina**
 [![4 Programming Paradigms In 40 Minutes](http://img.youtube.com/vi/cgVVZMfLjEI/0.jpg)](http://www.youtube.com/watch?v=cgVVZMfLjEI "4 Programming Paradigms In 40 Minutes")
-
-[**SLIDES**](https://github.com/cmrevoredo/upe-lc-plp/tree/master/slides)  |  [**EXERCÍCIOS**](https://github.com/cmrevoredo/upe-lc-plp/tree/master/exercises)  |  [**FERRAMENTAS**](https://github.com/cmrevoredo/upe-lc-plp/tree/master/tools)
 
 ## Conteúdo programático
 
