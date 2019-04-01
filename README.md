@@ -9,7 +9,7 @@ Repositório da disciplina Paradigmas de Linguagens de Programação, LC, UPE Ca
 
 ### Unidade 1
 
-13/03/19 - Apresentação da Disciplina 
+13/03/19 - Apresentação da Disciplina
 
 20/03/19 - Linguagem Imperativa: Variáveis, Operadores, Expressões e Estruturas de Controle
 
@@ -28,13 +28,23 @@ Repositório da disciplina Paradigmas de Linguagens de Programação, LC, UPE Ca
 ### Unidade 2
 
 08/05/19 - Conceitos sobre Linguagem Funcional
+
 15/05/19 - Conceitos sobre Linguagem Funcional
+
 22/05/19 - PROVA 3
+
 29/05/19 - Conceitos sobre Linguagem Oriendada a Aspectos
+
 05/06/19 - Conceitos sobre Linguagem Oriendada a Aspectos
+
 12/06/19 - PROVA 4
+
 19/06/19 - PROJETO
+
 20/06/19 - Acompanhamento dos projetos
+
 26/06/19 - Acompanhamento dos projetos
+
 03/07/19 - Apresentação dos projetos
+
 10/07/19 - FINAL (NÃO RECOMENDADO!)
