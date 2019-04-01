@@ -10,8 +10,6 @@ Repositório da disciplina Paradigmas de Linguagens de Programação, LC, UPE Ca
 
 **Turma:** 3 período do curso de Licenciatura de Computação 2019.1
 
-**Semestre:** 2019.1
-
 ## Conteúdo programático
 
 **Um vídeo interessante sobre o conteúdo programado para a disciplina**
