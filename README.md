@@ -5,8 +5,11 @@ Repositório da disciplina Paradigmas de Linguagens de Programação, LC, UPE Ca
 [**SLIDES**](https://github.com/cmrevoredo/upe-lc-plp/tree/master/slides)  |  [**EXERCÍCIOS**](https://github.com/cmrevoredo/upe-lc-plp/tree/master/exercises)  |  [**FERRAMENTAS**](https://github.com/cmrevoredo/upe-lc-plp/tree/master/tools)
 
 **Professor:** Carlo Marcelo
+
 **E-mail:** me@revoredo.dev
+
 **Turma:** 3 período do curso de Licenciatura de Computação 2019.1
+
 **Semestre:** 2019.1
 
 **Bem vindo! Segue um vídeo interessante sobre o conteúdo programado para a disciplina**
